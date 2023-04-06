@@ -1,0 +1,24 @@
+{
+  "name": "stock-portfolio-tracker",
+  "version": "1.0.0",
+  "description": "Project 2 - UCF Bootcamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jpshirey5/Stock-Portfolio-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jpshirey5/Stock-Portfolio-Tracker/issues"
+  },
+  "homepage": "https://github.com/Jpshirey5/Stock-Portfolio-Tracker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
